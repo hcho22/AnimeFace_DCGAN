@@ -3,11 +3,7 @@
 Deep Convolutional GAN using Anime Faces
 
 Requirements
-
-Python 3
-
-pytorch library
-
-jupyter Notebook/ googla colab
-
-AnimeFace Dataset - https://www.kaggle.com/splcher/animefacedataset
+- Python 3
+- Pytorch
+- Jupyter Notebook/ Google Colab
+- AnimeFace Dataset - https://www.kaggle.com/splcher/animefacedataset
